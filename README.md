@@ -20,9 +20,3 @@ A small-scale **Zelda-inspired 2D game**, built with Java and IntelliJ IDEA.
 - 🛡️ **Collect items and power-ups**  
 
 ---
-
-## 🛠 Setup & Installation  
-### **1. Clone the Repository**  
-```sh
-git clone https://github.com/AbhishekIISERB/ZeldaMyWay.git
-cd ZeldaMyWay
