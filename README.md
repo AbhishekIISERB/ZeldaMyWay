@@ -10,7 +10,6 @@ A small-scale **Zelda-inspired 2D game**, built with Java and IntelliJ IDEA.
 - 👾 **Enhancing enemy AI** (Better attack patterns)  
 - 🎶 **Adding background music & sound effects**  
 - 💾 **Save & load game functionality**  
-- 🎮 **Controller support (experimental)**  
 
 ---
 
@@ -19,14 +18,6 @@ A small-scale **Zelda-inspired 2D game**, built with Java and IntelliJ IDEA.
 - ⚔️ **Basic enemy AI and attack mechanics**  
 - 🎭 **NPC interactions and quest system**  
 - 🛡️ **Collect items and power-ups**  
-
----
-
-## 🎮 Controls  
-- ⬅️➡️⬆️⬇️ **Arrow keys** - Move the player  
-- 🗡 **Spacebar** - Attack  
-- 🎭 **Enter** - Interact with NPCs  
-- 🛑 **Esc** - Pause the game  
 
 ---
 
