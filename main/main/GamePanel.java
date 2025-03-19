@@ -1,4 +1,7 @@
+package main;
+
 import javax.swing.*;
+import javax.swing.plaf.basic.BasicTreeUI;
 import java.awt.*;
 
 public class GamePanel extends JPanel implements Runnable {
@@ -12,7 +15,9 @@ public class GamePanel extends JPanel implements Runnable {
     final int screenWidth;
     final int screenHeight;
 
+
     // Game loop variables
+    BasicTreeUI.KeyHandler keyH= new KeyHandler();
     Thread gameThread;
     final int FPS = 60; // Target frame rate
 
