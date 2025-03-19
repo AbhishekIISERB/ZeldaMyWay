@@ -17,7 +17,7 @@ public class GamePanel extends JPanel implements Runnable {
 
 
     // Game loop variables
-    BasicTreeUI.KeyHandler keyH= new KeyHandler();
+
     Thread gameThread;
     final int FPS = 60; // Target frame rate
 
